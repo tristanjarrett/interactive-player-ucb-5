@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "video": "210910C_Autoinjector.mp4",
+    "references": "",
+    "glossary": "",
+    "title": "BIMZELX® Fertigpen",
+    "subtitle": "Bimekizumab-Injektion mit dem BIMZELX® Fertigpen",
+    "description": "Bimekizumab-Injektion mit dem BIMZELX® Fertigpen",
+    "description_extended": "Digitale Lernerfahrung",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Einführung zu Bimzelx® Fertigpen",
+        "start": "00:05.000",
+        "end": "05:05.000",
+        "progress": false,
+        "sections": []
+      },
+      {
+        "id": 2,
+        "title": "360 Bimzelx® Fertigpen – Die Vorrichtung",
+        "start": "05:05.000",
+        "end": "06:05.000",
+        "progress": false,
+        "sections": [
+          {
+            "id": 1,
+            "title": "Section 1",
+            "start": "05:25:000",
+            "end": "06:05:000",
+            "popups": 0,
+            "popupContent": [
+              {
+                "title": "Exterior 1",
+                "start": "05:25:000",
+                "end": "05:28:000"
+              },
+              {
+                "title": "Exterior 2",
+                "start": "05:29:000",
+                "end": "05:33:000"
+              },
+              {
+                "title": "Exterior 3",
+                "start": "05:34:000",
+                "end": "05:38:000"
+              },
+              {
+                "title": "Exterior 4",
+                "start": "05:39:000",
+                "end": "05:43:000"
+              },
+              {
+                "title": "Interior 1",
+                "start": "05:45:000",
+                "end": "05:49:000"
+              },
+              {
+                "title": "Interior 2",
+                "start": "05:50:000",
+                "end": "05:54:000"
+              },
+              {
+                "title": "Interior 3",
+                "start": "05:55:000",
+                "end": "05:59:000"
+              },
+              {
+                "title": "Interior 4",
+                "start": "06:00:000",
+                "end": "06:03:000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Anwendung des Bimzelx® Fertigpen",
+        "start": "06:05.000",
+        "end": "18:43.000",
+        "progress": false,
+        "sections": []
+      }
+    ]
+  }
+]

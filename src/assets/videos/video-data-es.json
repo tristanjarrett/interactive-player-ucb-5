@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "video": "https://player.vimeo.com/external/691804353.m3u8?s=cfca719c456ad51d4a79ec5a05a1b8168f7b6ae5",
+    "references": "",
+    "glossary": "",
+    "title": "BIMZELX® AUTOINJECTOR",
+    "subtitle": "Bimekizumab Injection Using the BIMZELX® Autoinjector",
+    "description": "Bimekizumab Injection Using the BIMZELX® Autoinjector",
+    "description_extended": "Digital Learning Experience",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "Introduction to Bimzelx® Autoinjector",
+        "start": "00:00.000",
+        "end": "05:25.000",
+        "progress": false,
+        "sections": []
+      },
+      {
+        "id": 2,
+        "title": "360 Bimzelx® Autoinjector viewer",
+        "start": "05:25.000",
+        "end": "06:15.000",
+        "progress": false,
+        "sections": [
+          {
+            "id": 1,
+            "title": "Section 1",
+            "start": "05:44:000",
+            "end": "06:15:000",
+            "popups": 0,
+            "popupContent": [
+              {
+                "title": "Exterior 1",
+                "start": "05:44:000",
+                "end": "05:46:000"
+              },
+              {
+                "title": "Exterior 2",
+                "start": "05:47:000",
+                "end": "05:50:000"
+              },
+              {
+                "title": "Exterior 3",
+                "start": "05:51:000",
+                "end": "05:54:000"
+              },
+              {
+                "title": "Exterior 4",
+                "start": "05:55:000",
+                "end": "05:58:000"
+              },
+              {
+                "title": "Interior 1",
+                "start": "06:00:000",
+                "end": "06:02:000"
+              },
+              {
+                "title": "Interior 2",
+                "start": "06:03:000",
+                "end": "06:06:000"
+              },
+              {
+                "title": "Interior 3",
+                "start": "06:07:000",
+                "end": "06:10:000"
+              },
+              {
+                "title": "Interior 4",
+                "start": "06:11:000",
+                "end": "06:14:000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Using Bimzelx® Autoinjector",
+        "start": "06:16.000",
+        "end": "19:42.000",
+        "progress": false,
+        "sections": [
+          {
+            "id": 1,
+            "title": "Section 1",
+            "start": "19:36:000",
+            "end": "19:48:000",
+            "popups": 1,
+            "popupContent": [
+              {
+                "title": "Safe displosal of used and unused autoinjectors",
+                "image": "210901_deepdive_autoinjector_en.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
